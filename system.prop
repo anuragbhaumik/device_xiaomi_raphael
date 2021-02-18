@@ -21,6 +21,10 @@ persist.vendor.ims.disableIMSLogs=1
 persist.vendor.ims.disableDebugLogs=1
 persist.vendor.ims.disableQXDMLogs=1
 
+# LMKD
+ro.config.low_ram=false
+ro.lmk.log_stats=true
+
 # RIL
 persist.radio.apm_sim_not_pwdn=1
 persist.vendor.radio.enable_temp_dds=true
