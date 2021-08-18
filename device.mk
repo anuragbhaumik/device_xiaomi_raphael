@@ -252,6 +252,7 @@ PRODUCT_PACKAGES += \
     init.qcom.rc \
     init.qcom.sh \
     init.qcom.usb.rc \
+    init.performance_level.rc \
     init.qcom.usb.sh \
     init.qti.chg_policy.sh \
     init.recovery.qcom.rc \
