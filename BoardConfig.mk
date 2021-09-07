@@ -43,6 +43,7 @@ TARGET_KERNEL_SOURCE := kernel/xiaomi/sm8150
 TARGET_KERNEL_CONFIG := raphael_user_defconfig
 
 # Platform
+BOARD_VENDOR := xiaomi
 TARGET_BOARD_PLATFORM := msmnile
 
 # Audio
