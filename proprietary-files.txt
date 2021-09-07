@@ -878,7 +878,6 @@ vendor/etc/perf/perfboostsconfig.xml|93e57b38e327bfbc174e925d639745e66949229b
 vendor/etc/perf/perfconfigstore.xml|62f780c6f974a62d18a66d0dcee30efb04903512
 vendor/etc/perf/targetconfig.xml|95f511bb4030b2755a0b340814fe41cccac994ab
 vendor/etc/perf/targetresourceconfigs.xml|44e33511b57320fade366bfd5be83dcf5930f540
-vendor/etc/powerhint.xml|f35137c8f5068d03bba832b995e3e89b1ad718c2
 vendor/lib/libperfconfig.so|6fa5d6abf45071631e019bd66e36aacb13abbd44
 vendor/lib/libperfgluelayer.so|f524471e9d3906be59404b04526928be53c3d91a
 vendor/lib/libperfioctl.so|00164c19fa1dbf534f15b0a8bc2fc8d3a11ee2fb
