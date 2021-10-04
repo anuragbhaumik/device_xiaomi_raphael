@@ -30,23 +30,12 @@
     <!-- Shows the required view for in-display fingerprint -->
     <bool name="config_supportsInDisplayFingerprint">true</bool>
 
-    <!-- Show a custom view for FOD -->
-    <bool name="config_needCustomFODView">true</bool>
-
     <!-- Whether the device has a popup camera -->
     <bool name="config_hasPopupCamera">true</bool>
 
-    <!-- Smart charging -->
-    <string name="config_SmartChargingSysfsNode" translatable="false">/sys/class/power_supply/battery/input_suspend</string>
-    <string name="config_SmartChargingSuspendValue" translatable="false">1</string>
-    <string name="config_SmartChargingResumeValue" translatable="false">0</string>
-
-
-    <!-- Whether to enable shifting of elements in the status bar and the navigation bar.
-         Should be enabled for OLED devices to reduce/prevent burn in on the status bar
-         and on the navigation bar and disabled for all other devices. -->
-    <bool name="config_statusBarBurnInProtection">true</bool>
-
     <!-- Whether device supports gaming mode profiles -->
     <bool name="config_gamingmode_performance">true</bool>
+
+    <!-- Enable face auth only when swiping security view -->
+    <bool name="config_faceAuthOnlyOnSecurityView">true</bool>
 </resources>

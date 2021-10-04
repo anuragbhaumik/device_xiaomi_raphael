@@ -27,4 +27,10 @@
 
     <!-- the padding of the rounded corner -->
     <dimen name="rounded_corner_content_padding">8dp</dimen>
+
+    <!-- FOD recognizing animation vertical position offset -->
+    <dimen name="fod_animation_offset">1.0px</dimen>
+
+    <!-- Bottom margin size when fingerprint in display is active -->
+    <dimen name="keyguard_indication_margin_bottom_fingerprint_in_display">25dp</dimen>
 </resources>
